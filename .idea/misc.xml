@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../../../layout/custom_preview.xml" value="0.1301715438950555" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.247" />
+        <entry key="app/src/main/res/drawable/background_border.xml" value="0.254" />
+        <entry key="app/src/main/res/drawable/color_cursor.xml" value="0.247" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.2835" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.247" />
+        <entry key="app/src/main/res/drawable/ic_send.xml" value="0.247" />
+        <entry key="app/src/main/res/drawable/input_text_bg_layout.xml" value="0.247" />
+        <entry key="app/src/main/res/drawable/lost_your_password_background_border.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/lost_your_password_title_background.xml" value="0.2876196899414062" />
+        <entry key="app/src/main/res/layout/activity_basic.xml" value="0.23540315106580167" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.3224669603524229" />
+        <entry key="app/src/main/res/layout/activity_chat_linear.xml" value="0.23796296296296296" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3611738148984199" />
+        <entry key="app/src/main/res/layout/activity_login_linear.xml" value="0.3770833333333333" />
+        <entry key="app/src/main/res/layout/activity_lost_your_password.xml" value="0.6136417567445305" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3712820512820513" />
+        <entry key="app/src/main/res/layout/activity_pop_up.xml" value="0.3770833333333333" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.4593282063802086" />
+        <entry key="app/src/main/res/layout/ic_send.xml" value="0.3770833333333333" />
+        <entry key="app/src/main/res/layout/row_chat_from.xml" value="0.5253565768621236" />
+        <entry key="app/src/main/res/layout/row_chat_message_from.xml" value="0.27044397333011366" />
+        <entry key="app/src/main/res/layout/row_chat_message_to.xml" value="0.3284261392160384" />
+        <entry key="app/src/main/res/layout/row_chat_to.xml" value="0.41589648798521256" />
+        <entry key="app/src/main/res/layout/row_message_from.xml" value="3.060861453798864" />
+        <entry key="app/src/main/res/layout/row_message_to.xml" value="0.4482981363932291" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.247" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.247" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
